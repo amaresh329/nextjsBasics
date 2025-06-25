@@ -1,0 +1,10 @@
+.apple{
+    text-align: center;
+    font-size: large;
+    height:50px;
+    margin-top: 20px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
